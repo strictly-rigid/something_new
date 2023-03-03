@@ -1,9 +1,10 @@
 .section-features {
-    background-color: royalblue;
+    background: #F4F4F4;
 }
 
 .container {
     width: 1360px;
+
 }
 
 .features-list {
@@ -14,7 +15,11 @@
 
 .features-item {
     width: 362px;
+    height: auto;
+    border-radius: 4px;
 }
+
+.features-icon {}
 
 .title {
     font-weight: 400;
