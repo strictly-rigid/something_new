@@ -1,3 +1,6 @@
 .team {
   border-color: aliceblue;
 }
+.team-list {
+  display: flex;
+}
