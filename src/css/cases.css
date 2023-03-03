@@ -1,3 +1,13 @@
-.cases {
-  background-color: orchid;
+
+.container{    
+   width: 100%;
+   max-width: 1300px;
+   
 }
+.cases-pre-title {
+  background-color: #E5E5E5;
+}
+
+.cases-title {}
+
+.cases-text {}
