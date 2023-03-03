@@ -1,5 +1,51 @@
 .hero {
-  background-color: green;
+  background-color: rgba(46, 47, 66, 0.7);
+  background-image: url(../img/Rectangle.jpg);
+  text-align: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 1360px;
+  height: 768px;
+  margin: 0 auto;
+}
+
+.container {
+  max-width: 1158px;
+  padding-left: 16px;
+  padding-right: 16px;
+  margin: 0 auto;
+  padding-top: 279px;
+  padding-bottom: 284px;
+}
+
+.hero-title {
+  font-weight: 300;
+  font-size: 55px;
+  line-height: 1.2;
+  text-align: center;
+  color: #e9e9e9;
+  margin: 0 auto;
+  margin-bottom: 25px;
+}
+
+.hero-text {
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.67;
+  text-align: center;
+  color: #e9e9e9;
+  margin-bottom: 29px;
+}
+
+.hero-btn {
+  background: #28a745;
+  border-radius: 5px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.56;
+  text-align: center;
+  color: #ffffff;
+  padding: 10px 30px;
 }
 
 .swiper {
